@@ -1,3 +1,9 @@
+All the data was loaded and processed.  All graphs and tables can be found in the "Outputs" folder. The SQL file is: SQL_Challenge_IL
+
+
+
+
+
 # SQL Homework - Employee Database: A Mystery in Two Parts
 
 ![sql.png](sql.png)
